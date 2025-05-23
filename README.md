@@ -21,7 +21,7 @@ This project was completed as the final capstone for the TripleTen Data Science 
 - phone.csv: How many lines are included in contract by customer ID of Interconnect phone users
 - requirements.txt: Requirements to run project
 - work_plan.ipynb: Project introduction, initial view of data, and written plan for project
-- EDA_and_churn_prediction.ipynb: Main project notebook containing exploratory data analysis, model training, and model evaluation
+- EDA_and_model_training.ipynb: Main project notebook containing exploratory data analysis, model training, and model evaluation
 - project_report.ipynb: A brief summary of project and its results
 
 ## How to Run Project
